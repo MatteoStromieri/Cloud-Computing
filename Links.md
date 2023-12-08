@@ -1,0 +1,7 @@
+- [VXLAN explained](https://medium.com/@NTTICT/vxlan-explained-930cc825a51#:~:text=NSX%2C%20Contrail%20and%20Openstack%20Neutron,that%20runs%20on%20port%204789.)
+- [Linux namespaces](https://lwn.net/Articles/531114/) 
+- [Interfaccia di loopback - Wikipedia](https://it.wikipedia.org/wiki/Interfaccia_di_loopback)
+- [Prof's guide](file:///C:/Users/Matte/Downloads/Telegram%20Desktop/CommentedCommands_v0.0.1.pdf)
+- https://ansilh.com/
+- https://iximiuz.com/en/posts/container-learning-path/
+- 
