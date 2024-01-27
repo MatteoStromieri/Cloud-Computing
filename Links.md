@@ -4,4 +4,5 @@
 - [Prof's guide](file:///C:/Users/Matte/Downloads/Telegram%20Desktop/CommentedCommands_v0.0.1.pdf)
 - https://ansilh.com/
 - https://iximiuz.com/en/posts/container-learning-path/
+- [Book](https://eddiejackson.net/azure/Kubernetes_book.pdf)
 - 
